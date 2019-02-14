@@ -15,7 +15,7 @@ GENERAL INSTRUCTIONS
 PROJECT GOAL
 ============
 
-Create two pages - A login page and a Dashboard page. 
+Create two pages - A login page and a Dashboard page. See attached images.
 
 Login Page
 ----------
